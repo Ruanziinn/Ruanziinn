@@ -1,7 +1,5 @@
 * ### Hi there, I am Ruan Ripardo 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on LIT
 - 👯 I’m looking to collaborate on Huawei and LIT
 
