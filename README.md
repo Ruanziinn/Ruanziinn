@@ -1,14 +1,15 @@
-## Hi there 👋
-## 
-**Ruanziinx/Ruanziinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ### Hi there, I am Ruan Ripardo 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on LIT
+- 👯 I’m looking to collaborate on Huawei and LIT
+
+- I love programming ❤️
+
+## I am currently learning 🌱                 
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ruanziinx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanziinx&layout=compact&langs_count=7&theme=chartreuse-dark"/>
