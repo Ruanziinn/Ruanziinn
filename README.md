@@ -1,7 +1,6 @@
 * ### Hi there, I am Ruan Ripardo 👋
 
 - 🔭 I’m currently working on LIT
-- 👯 I’m looking to collaborate on Huawei and LIT
 
 - I love programming ❤️
 
