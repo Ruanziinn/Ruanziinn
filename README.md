@@ -1,12 +1,27 @@
-* ### Hi there, I am Ruan Ripardo 👋
+# Ruan Ripardo
 
-- 🔭 I’m currently working on LIT
+## Sobre mim
 
-- I love programming ❤️
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Telecomunicações no Instituto Federal do Ceará.
+- 💼 Trabalhando como Backend Developer no Laboratório de Inovação Tecnológica (LIT) .
+- 🌱 Aprendendo mais sobre Python, FastAPI, Java, Spring, Banco de Dados e Docker.
 
-## I am currently learning 🌱                 
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ruanziinx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+## 🛠️ Linguagens e Ferramentas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanziinx&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,vscode,linux&theme=dark)](https://skillicons.dev)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanziinn&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+<br/>
