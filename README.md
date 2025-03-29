@@ -2,11 +2,10 @@
 
 ## Sobre mim
 
+- 👩🏽‍💻 Acadêmico em Engenharia de Computação no Instituto Federal do Ceará (IFCE).
+- 🎓 Técnico em Telecomunicações pelo Instituto Federal do Ceará (IFCE).
+- 💼 Backend Developer no Laboratório de Inovação Tecnológica (LIT).
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Telecomunicações no Instituto Federal do Ceará.
-- 💼 Trabalhando como Backend Developer no Laboratório de Inovação Tecnológica (LIT) .
-- 🌱 Aprendendo mais sobre Python, FastAPI, Java, Spring, Banco de Dados e Docker.
-
 
 ## 🛠️ Linguagens e Ferramentas
 
