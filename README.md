@@ -4,7 +4,6 @@
 
 - 👩🏽‍💻 Acadêmico em Engenharia de Computação no Instituto Federal do Ceará (IFCE).
 - 🎓 Técnico em Telecomunicações pelo Instituto Federal do Ceará (IFCE).
-- 💼 Backend Developer no Laboratório de Inovação Tecnológica (LIT).
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## 🛠️ Linguagens e Ferramentas
