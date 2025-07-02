@@ -2,9 +2,11 @@
 
 ## Sobre mim
 
-- 👩🏽‍💻 Acadêmico em Engenharia de Computação no Instituto Federal do Ceará (IFCE).
-- 🎓 Técnico em Telecomunicações pelo Instituto Federal do Ceará (IFCE).
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+👨🏽‍💻 Estudante de Engenharia de Computação no Instituto Federal do Ceará (IFCE).
+🎓 Técnico em Telecomunicações também pelo IFCE.
+🚀 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.
+🧠 Sempre em busca de novos desafios, experimentando ferramentas, linguagens e frameworks.
+📈 Meu foco está em evoluir, explorando boas práticas, novas ideias e contribuindo nos ambientes ao meu alcance.
 
 ## 🛠️ Linguagens e Ferramentas
 
