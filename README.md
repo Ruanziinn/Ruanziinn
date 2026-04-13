@@ -35,9 +35,8 @@
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruanziinn&show_icons=true&theme=synthwave"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanziinn&layout=compact&theme=synthwave"/>
+  <a href="https://github.com/Ruanziinn">
+  <img height="180em" src="https://github-readme-stats-gray-ten.vercel.app/api/top-langs/?username=Ruanziinn&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <br/>
