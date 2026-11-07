@@ -6,11 +6,11 @@
 
 ## About me
 
-- 👨🏽‍💻 Computer Engineering student at the Federal Institute of Ceará (IFCE)
-- 🎓 Telecommunications Technician from IFCE
-- 🚀 Passionate about technology, continuous learning, and building creative solutions
-- 🧠 Always seeking new challenges, experimenting with tools and languages.
-- 📈 Focused on growing as a developer by exploring best practices, new ideas, and contributing wherever possible
+- Computer Engineering student at the Federal Institute of Ceará (IFCE)
+- Telecommunications Technician from IFCE
+- Passionate about technology, continuous learning, and building creative solutions
+- Always seeking new challenges, experimenting with tools and languages.
+- Focused on growing as a developer by exploring best practices, new ideas, and contributing wherever possible
 
 ### Contact
 
